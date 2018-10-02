@@ -1,6 +1,6 @@
 token=NDk1NjY2Nzc5NDUzMTI4NzI0.DpF8Kw.pmIB3ZSnU0dx3BNqE1sPHQumXOo
 owner=465649311871533066
-prefix=aplay
-game=Server Cher.
+prefix=a
+game=aplay
 stayinchannel=true
 songinstatus=true
